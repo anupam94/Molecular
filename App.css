@@ -1,0 +1,13 @@
+.App{
+  padding: 40px;
+}
+.displayNone{
+  display: none;
+}
+.folder{
+  color: #FFC107;
+  margin: 0px 5px;
+}
+.nodeclass{
+  margin-left: 50px;
+}
